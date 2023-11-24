@@ -1,4 +1,4 @@
-# Where things are
+#Random comment
 source              : .
 destination         : ./_site
 collections_dir     : .
